@@ -1,0 +1,30 @@
+.hidden {
+    display: none;
+}
+
+div, p, body, header, footer, section, article, nav, h1, h2, h3, h4 {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #000;
+    background-color: white;
+    /* background-image: url(""); */
+}
+
+a {
+    text-decoration: none;
+}
+
+.socialMedia img {
+    width: 20px;
+}
